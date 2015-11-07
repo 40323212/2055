@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -286,7 +286,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -301,7 +301,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151011205816.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151011205816.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="leo.20151011205816.2"><vh>檔案說明</vh></v>
 <v t="leo.20151011205816.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151011205816.4" a="E"><vh>body 標註</vh>
@@ -316,9 +316,9 @@
 </v>
 </v>
 </v>
-<v t="leo.20151025234247.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151025234247.1" a="E"><vh>@clean simplest3.html</vh>
 <v t="leo.20151025234247.2"><vh>檔案說明</vh></v>
-<v t="leo.20151025234247.3"><vh>html 標註</vh>
+<v t="leo.20151025234247.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151025234247.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151025234247.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151025234247.6" a="E"><vh>div class="slides"</vh>
@@ -332,14 +332,14 @@
 </v>
 </v>
 <v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
-<v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
+<v t="amd.20150915170743.2"><vh>html 標註</vh>
 <v t="amd.20150915170743.3" a="E"><vh>head</vh>
 <v t="amd.20150915170743.4"><vh>title - 標題</vh></v>
 <v t="amd.20150915170743.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915170743.6"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915170743.7" a="E"><vh>body</vh>
-<v t="amd.20150915170743.8" a="E"><vh>div - reveal</vh>
+<v t="amd.20150915170743.7"><vh>body</vh>
+<v t="amd.20150915170743.8"><vh>div - reveal</vh>
 <v t="amd.20150915170743.9" a="E"><vh>div - slides</vh>
 <v t="amd.20150915170743.10"><vh>h1 - 一般單頁</vh></v>
 <v t="amd.20150915170743.11"><vh>h2</vh></v>
@@ -2021,7 +2021,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
     &lt;h1&gt;心得與自評分數&lt;/h1&gt;
-    &lt;p&gt;我給我自己的評分是80分,第一次使用solvespace感覺跟inventor有點像,但構造比較簡單且較容易上手,還可以畫出構件的運動軌跡,感覺是個值得一學的軟體。&lt;/p&gt;
+    &lt;p&gt;我給我自己的評分是60分,如果沒有同學指點的話我也做不出來,在推上去分支時卡了很久,對整個操作都還不熟悉。&lt;/p&gt;
     		
 &lt;/section&gt;
 				
@@ -2066,7 +2066,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;p&gt;*http://github.com/coursemdetw/reval &lt;/p&gt;
 &lt;p&gt;*GitHub Pages &lt;/p&gt;
 &lt;p&gt;*batch 批次檔&lt;/p&gt;
-&lt;p&gt;solvespace指令:Ctrl+Z復原、Ctrl+y下一步、W畫面回正&lt;/p&gt;
+
 &lt;/section&gt;
 				
 </t>
@@ -2346,7 +2346,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20151011205816.9">&lt;section&gt;
     &lt;h1&gt;心得與自評分數&lt;/h1&gt;
-    &lt;p&gt;我給我自己的評分是80分,第一次使用solvespace感覺跟inventor有點像,但構造比較簡單且較容易上手,還可以畫出構件的運動軌跡,感覺是個值得一學的軟體。&lt;/p&gt;
+    &lt;p&gt;我給我自己的評分是70分,第一次使用solvespace感覺跟inventor有點像,但構造比較簡單且較容易上手,還可以畫出構件的運動軌跡,感覺是個值得一學的軟體。&lt;/p&gt;
     		
 &lt;/section&gt;
 				
@@ -2423,7 +2423,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20151025234247.9">&lt;section&gt;
     &lt;h1&gt;心得與自評分數&lt;/h1&gt;
-    &lt;p&gt;我給我自己的評分是70分,第一次使用Cero，繪草圖的時候還蠻容易上手的，但是在組合的時候很容易就跑掉，所以需要一點時間來熟悉。&lt;/p&gt;
+    &lt;p&gt;我給我自己的評分是80分,第一次使用Cero，繪草圖的時候還蠻容易上手的，但是在組合的時候很容易就跑掉，所以需要一點時間來熟悉,在看老師給的畫圖步驟時,因為內容全是英文看得有些辛苦,讓我越來越清楚英文的重要性。&lt;/p&gt;
     		
 &lt;/section&gt;
 				
